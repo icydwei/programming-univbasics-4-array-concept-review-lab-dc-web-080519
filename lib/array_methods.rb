@@ -1,5 +1,5 @@
 def find_element_index(array, value_to_find)
-  for (count = 0; )
+  n = 0
 end
 
 def find_max_value(array)
